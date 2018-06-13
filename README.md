@@ -16,6 +16,6 @@ sudo nmcli dev wifi
 sudo nmcli dev wifi connect "SSID" password "PASSWORD" ifname wlan0
 ```
 * Check device is connected to relevant SSID
-```
-<b>sudo<\b> nmcli dev
+```python
+sudo nmcli dev
 ```
