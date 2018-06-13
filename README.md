@@ -1,6 +1,6 @@
 # Nano-Bakery
 * Check device list if there is any connection
-```
+```javascript
 sudo nmcli dev
 ```
 * Start WiFi
@@ -17,5 +17,5 @@ sudo nmcli dev wifi connect "SSID" password "PASSWORD" ifname wlan0
 ```
 * Check device is connected to relevant SSID
 ```
-sudo nmcli dev
+<b>sudo</b> nmcli dev
 ```
